@@ -10,4 +10,4 @@ Description
 
 landing page for real estate company
 
-[demo link]
+[demo link] https://bogdan-kotsupey.github.io/Miami/
